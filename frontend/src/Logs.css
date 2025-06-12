@@ -1,0 +1,29 @@
+.logs-container {
+  font-family: 'Poppins', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logs-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.logs-container th,
+.logs-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.logs-container th {
+  background-color: #f2f2f2;
+  color:black;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
